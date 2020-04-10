@@ -1,0 +1,101 @@
+,COUSES TITLE,SKILLS,SYLLABUS
+0,['Machine Learning'],"['Logistic Regression', 'Artificial Neural Network', 'Machine Learning (ML) Algorithms', 'Machine Learning']",[]
+1,['Neural Networks and Deep Learning'],"['Artificial Neural Network', 'Backpropagation', 'Python Programming', 'Deep Learning']","['Introduction to deep learning', 'Neural Networks Basics', 'Shallow neural networks', 'Deep Neural Networks']"
+2,['Convolutional Neural Networks'],"['Facial Recognition System', 'Tensorflow', 'Convolutional Neural Network', 'Artificial Neural Network']",[]
+3,"['Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization']","['Hyperparameter', 'Tensorflow', 'Hyperparameter Optimization', 'Deep Learning']",[]
+4,['Introduction to Data Science in Python'],"['Python Programming', 'Numpy', 'Pandas', 'Data Cleansing']","['Week 1', 'Week 2', 'Week 3', 'Week 4']"
+5,['Sequence Models'],"['Recurrent Neural Network', 'Artificial Neural Network', 'Deep Learning', 'Long Short-Term Memory (ISTM)']",[]
+6,['R Programming'],"['Data Analysis', 'Debugging', 'R Programming', 'Rstudio']",[]
+7,['What is Data Science? '],[],[]
+8,['Structuring Machine Learning Projects'],"['Machine Learning', 'Deep Learning', 'Inductive Transfer', 'Multi-Task Learning']",[]
+9,['The Data Scientist’s Toolbox'],"['Data Science', 'Github', 'R Programming', 'Rstudio']",[]
+10,['Mathematics for Machine Learning: Linear Algebra'],"['Eigenvalues And Eigenvectors', 'Basis (Linear Algebra)', 'Transformation Matrix', 'Linear Algebra']",[]
+11,['SQL for Data Science'],"['Data Science', 'Data Analysis', 'Sqlite', 'SQL']","['Getting Started and Selecting & Retrieving Data with SQL', 'Filtering, Sorting, and Calculating Data with SQL', 'Subqueries and Joins in SQL', 'Modifying and Analyzing Data with SQL']"
+12,['Machine Learning Foundations: A Case Study Approach'],"['Python Programming', 'Machine Learning Concepts', 'Machine Learning', 'Deep Learning']","['Welcome', 'Regression: Predicting House Prices', 'Classification: Analyzing Sentiment', 'Clustering and Similarity: Retrieving Documents']"
+13,['Python for Data Science and AI'],"['Data Science', 'Python Programming', 'Numpy', 'Pandas']","['Python Basics ', 'Python Data Structures ', 'Python Programming Fundamentals ', 'Working with Data in Python ']"
+14,[],[],[]
+15,['Open Source tools for Data Science'],[],[]
+16,['Applied Machine Learning in Python'],"['Python Programming', 'Machine Learning (ML) Algorithms', 'Machine Learning', 'Scikit-Learn']",[]
+17,['Google Cloud Platform Big Data and Machine Learning Fundamentals'],"['Tensorflow', 'Bigquery', 'Google Cloud Platform', 'Cloud Computing']",[]
+18,['Introduction to Probability and Data'],"['Statistics', 'R Programming', 'Rstudio', 'Exploratory Data Analysis']","['About Introduction to Probability and Data', 'Introduction to Data', 'Introduction to Data Project', 'Exploratory Data Analysis and Introduction to Inference', 'Exploratory Data Analysis and Introduction to Inference Project', 'Introduction to Probability', 'Introduction to Probability Project', 'Probability Distributions']"
+19,['Databases and SQL for Data Science'],"['Cloud Databases', 'Python Programming', 'Ipython', 'Relational Database Management System (RDBMS)', 'SQL']","['Week 1 - Introduction to Databases and Basic SQL', 'Week 2 - Advanced SQL', 'Week 3 - Accessing Databases using Python', 'Week 4: Course Assignment']"
+20,['Data Analysis with Python'],"['Predictive Modelling', 'Python Programming', 'Data Analysis', 'Data Visualization (DataViz)', 'Model Selection']",[]
+21,['Machine Learning with Python'],[],"['Introduction to Machine Learning', 'Regression', 'Classification', 'Clustering']"
+22,['Basic Statistics'],"['Statistics', 'Confidence Interval', 'Statistical Hypothesis Testing', 'R Programming']","['Before we get started...', 'Exploring Data', 'Correlation and Regression', 'Probability', 'Probability Distributions']"
+23,['Data Science Methodology'],[],[]
+24,['Introduction to Big Data'],"['Big Data', 'Apache Hadoop', 'Mapreduce', 'Cloudera']","['Welcome ', 'Big Data: Why and Where', 'Characteristics of Big Data and Dimensions of Scalability', 'Data Science: Getting Value out of Big Data', 'Foundations for Big Data Systems and Programming', 'Systems: Getting Started with Hadoop']"
+25,['Excel aplicado a los negocios (Nivel Avanzado)'],[],"['Formas de trabajo. Trabajo individual o con otras personas', 'Módulo 2: Funciones avanzadas para manipular datos', 'Módulo 3: Tablas dinámicas', 'Módulo 4: Vinculación con otras aplicaciones']"
+26,['Introduction to Deep Learning'],"['Recurrent Neural Network', 'Tensorflow', 'Convolutional Neural Network', 'Deep Learning']","['Introduction to optimization', 'Introduction to neural networks', 'Deep Learning for images', 'Unsupervised representation learning']"
+27,['How to Win a Data Science Competition: Learn from Top Kagglers'],"['Data Analysis', 'Feature Extraction', 'Feature Engineering', 'Xgboost']","['Introduction & Recap', 'Feature Preprocessing and Generation with Respect to Models', 'Final Project Description', 'Exploratory Data Analysis', 'Validation', 'Data Leakages', 'Metrics Optimization', 'Advanced Feature Engineering I', 'Hyperparameter Optimization', 'Advanced feature engineering II', 'Ensembling']"
+28,['How Google does Machine Learning'],"['Application Programming Interfaces (API)', 'Inclusive ML', 'Machine Learning', 'Google Cloud Platform', 'Bigquery']","['Introduction to specialization', 'What it means to be AI first', 'How Google does ML', 'Inclusive ML', 'Python notebooks in the cloud', 'Summary']"
+29,['Machine Learning: Regression'],"['Linear Regression', 'Ridge Regression', 'Lasso (Statistics)', 'Regression Analysis']","['Welcome', 'Simple Linear Regression', 'Multiple Regression', 'Assessing Performance', 'Ridge Regression']"
+30,['Natural Language Processing'],"['Chatterbot', 'Tensorflow', 'Deep Learning', 'Natural Language Processing']",[]
+31,['Fundamentos de Excel para Negocios'],"['Mathematical Optimization', 'Graphics', 'Data Analysis', 'Table (Information)', 'Printf Format String']",[]
+32,['Математика и Python для анализа данных'],"['Scipy', 'Statistics', 'Python Programming', 'Numpy']",[]
+33,['Introducción a Data Science: Programación Estadística con R'],"['Graphics', 'R Programming', 'Rstudio', 'Exploratory Data Analysis']",[]
+34,['Data-driven Decision Making'],"['Data-Informed Decision-Making', 'Big Data', 'Data Analysis', 'Data Visualization (DataViz)']",[]
+35,['Введение в машинное обучение'],"['Python Programming', 'Machine Learning (ML) Algorithms', 'Machine Learning', 'Pandas']",[]
+36,"['Applied Plotting, Charting & Data Representation in Python']","['Python Programming', 'Data Virtualization', 'Data Visualization (DataViz)', 'Matplotlib']",[]
+37,['Machine Learning: Classification'],"['Logistic Regression', 'Statistical Classification', 'Classification Algorithms', 'Decision Tree']",[]
+38,['Getting and Cleaning Data'],"['Data Manipulation', 'Regular Expression (REGEX)', 'R Programming', 'Data Cleansing']",[]
+39,['Mastering Data Analysis in Excel'],"['Binary Classification', 'Data Analysis', 'Microsoft Excel', 'Linear Regression']","['About This Course', 'Excel Essentials for Beginners', 'Binary Classification', 'Information Measures', 'Linear Regression']"
+40,['Fundamentals of Visualization with Tableau'],"['Tableau Software', 'Data Virtualization', 'Data Visualization (DataViz)', 'Visualization (Computer Graphics)']",[]
+41,"['Capstone: Retrieving, Processing, and Visualizing Data with Python']","['Data Analysis', 'Python Programming', 'Database (DBMS)', 'Data Visualization (DataViz)']","['Welcome to the Capstone', 'Building a Search Engine', 'Exploring Data Sources (Project)', 'Spidering and Modeling Email Data']"
+42,['Introduction to Data Analysis Using Excel'],"['Lookup Table', 'Data Analysis', 'Microsoft Excel', 'Pivot Table']",[]
+43,['Applied Text Mining in Python'],"['Natural Language Toolkit (NLTK)', 'Text Mining', 'Python Programming', 'Natural Language Processing']",[]
+44,['Data Visualization with Python'],"['Python Programming', 'Data Virtualization', 'Data Visualization (DataViz)', 'Matplotlib']",[]
+45,['Business Metrics for Data-Driven Companies'],"['Data Analysis', 'Business Analysis', 'Business Analytics', 'Business Process']",[]
+46,['Problem Solving with Excel '],"['Data Analysis', 'Microsoft Excel', 'Pivot Table', 'Data Cleansing']","['Overview of Excel', 'vLookups and Data Cleansing', 'Logical Functions & Pivot Tables', 'More Advanced Formulas']"
+47,['Bayesian Statistics: From Concept to Data Analysis'],"['Statistics', 'Bayesian Statistics', 'Bayesian Inference', 'R Programming']",[]
+48,['Data Visualization and Communication with Tableau'],"['Data Analysis', 'Tableau Software', 'Data Visualization (DataViz)', 'Visualization (Computer Graphics)']",[]
+49,['Machine Learning: Clustering & Retrieval'],"['Data Clustering Algorithms', 'K-Means Clustering', 'Machine Learning', 'K-D Tree']",[]
+50,['Econometrics: Methods and Applications'],"['Linear Regression', 'Time Series', 'Econometrics', 'Regression Analysis']","['Welcome Module', 'Simple Regression', 'Multiple Regression', 'Model Specification', 'Endogeneity']"
+51,['Exploratory Data Analysis'],"['Cluster Analysis', 'Ggplot2', 'R Programming', 'Exploratory Data Analysis']",[]
+52,['Bayesian Methods for Machine Learning'],"['Bayesian Optimization', 'Gaussian Process', 'Markov Chain Monte Carlo (MCMC)', 'Variational Bayesian Methods']",[]
+53,['Probabilistic Graphical Models 1: Representation'],"['Bayesian Network', 'Graphical Model', 'Markov Random Field']","['Introduction and Overview', 'Bayesian Network (Directed Models)', 'Template Models for Bayesian Networks', 'Structured CPDs for Bayesian Networks', 'Markov Networks (Undirected Models)', 'Decision Making']"
+54,['Statistical Inference'],"['Statistics', 'Statistical Inference', 'Statistical Hypothesis Testing']",[]
+55,['End-to-End Machine Learning with TensorFlow on GCP'],[],[]
+56,['A Crash Course in Data Science'],"['Data Science', 'Data Analysis', 'Machine Learning', 'Project']",[]
+57,['Fundamentals of Scalable Data Science'],"['Statistics', 'Data Science', 'Internet Of Things (IOT)', 'Apache Spark']","['Introduction the course and grading environment', 'Tools that support BigData solutions', 'Scaling Math for Statistics on Apache Spark', 'Data Visualization of Big Data']"
+58,[],[],[]
+59,['Practical Reinforcement Learning'],[],[]
+60,['Practical Time Series Analysis'],"['Time Series Forecasting', 'Time Series', 'Time Series Models']",[]
+61,['Applied AI with DeepLearning'],"['Machine Learning', 'Deep Learning', 'Long Short-Term Memory (ISTM)', 'Apache Spark']",[]
+62,['Practical Machine Learning'],"['Random Forest', 'Machine Learning (ML) Algorithms', 'Machine Learning', 'R Programming']",[]
+63,['Managing Big Data with MySQL'],"['Data Analysis', 'MySQL', 'Teradata', 'SQL']",[]
+64,['Inferential Statistics'],"['Statistical Inference', 'Statistical Hypothesis Testing', 'R Programming']",[]
+65,['Computational Neuroscience'],"['Computational Neuroscience', 'Artificial Neural Network', 'Reinforcement Learning', 'Biological Neuron Model']",[]
+66,['Обучение на размеченных данных'],"['Random Forest', 'Python Programming', 'Machine Learning', 'Supervised Learning']",[]
+67,['Getting Started with SAS Programming'],[],[]
+68,[],[],[]
+69,['Understanding and Visualizing Data with Python'],"['Statistics', 'Data Analysis', 'Python Programming', 'Data Visualization (DataViz)']",[]
+70,['Regression Models'],"['Model Selection', 'Generalized Linear Model', 'Linear Regression', 'Regression Analysis']",[]
+71,['Mathematics for Machine Learning: PCA'],"['Python Programming', 'Principal Component Analysis (PCA)', 'Projection Matrix', 'Mathematical Optimization']","['Statistics of Datasets', 'Inner Products', 'Orthogonal Projections', 'Principal Component Analysis']"
+72,['Intro to TensorFlow'],"['Application Programming Interfaces (API)', 'Estimator', 'Machine Learning', 'Tensorflow', 'Cloud Computing']",[]
+73,['Guided Tour of Machine Learning in Finance'],[],[]
+74,['Applied Data Science Capstone'],[],[]
+75,['Improving your statistical inferences'],"['Likelihood Function', 'Bayesian Statistics', 'P-Value', 'Statistical Inference']","['Introduction + Frequentist Statistics', 'Likelihoods & Bayesian Statistics', 'Multiple Comparisons, Statistical Power, Pre-Registration', 'Effect Sizes']"
+76,['Hadoop Platform and Application Framework'],"['Python Programming', 'Apache Hadoop', 'Mapreduce', 'Apache Spark']","['Hadoop Basics', 'Introduction to the Hadoop Stack', 'Introduction to Hadoop Distributed File System (HDFS)', 'Introduction to Map/Reduce']"
+77,['機器學習基石上 (Machine Learning Foundations)---Mathematical Foundations'],"['Decision Stump', 'Perceptron', 'Machine Learning', 'Vc Dimension']",[]
+78,['Data Visualization with Advanced Excel'],"['Dashboard (Business)', 'Microsoft Excel', 'Data Virtualization', 'Data Visualization (DataViz)']","['Preparing a Professional Excel ', 'Advanced Scenario Analysis ', 'Data Visualization', 'Dashboarding ']"
+79,[],[],[]
+80,['Advanced Machine Learning and Signal Processing'],[],"['Setting the stage', 'Supervised Machine Learning', 'Unsupervised Machine Learning', 'Digital Signal Processing in Machine Learning']"
+81,['Data Visualization'],"['Data Visualization Software', 'Tableau Software', 'Data Virtualization', 'Data Visualization (DataViz)']",[]
+82,['Launching into Machine Learning'],"['Tensorflow', 'Bigquery', 'Machine Learning', 'Data Cleansing']","['Introduction', 'Practical ML', 'Optimization', 'Generalization and Sampling', 'Summary']"
+83,['Introduction to Data Analytics for Business'],"['Data Model', 'Data Quality', 'Data Analysis', 'SQL']","['Data and Analysis in the Real World', 'Analytical Tools', 'Data Extraction Using SQL', 'Real World Analytical Organizations']"
+84,['Process Mining: Data science in Action'],"['Petri Net', 'Process Modeling', 'Process Mining', 'Data Mining']",[]
+85,['Big Data Modeling and Management Systems'],"['Data Model', 'Big Data', 'Data Modeling', 'Data Management']","['Introduction to Big Data Modeling and Management', 'Big Data Modeling', 'Big Data Modeling (Part 2)', 'Working With Data Models']"
+86,['Introduction to Genomic Technologies'],"['Bioinformatics', 'Statistics', 'Data Science', 'Computational Biology']",[]
+87,['Bayesian Statistics'],"['Bayesian Statistics', 'Bayesian Linear Regression', 'Bayesian Inference', 'R Programming']",[]
+88,['The Unix Workbench'],"['Shell Script', 'Github', 'Bash (Unix Shell)', 'Cloud Computing']","['Unix and Command Line Basics', 'Working with Unix', 'Bash Programming', 'Git and GitHub', 'Nephology']"
+89,['Introduction to Machine Learning'],[],[]
+90,['Feature Engineering'],[],"['Introduction', 'Raw Data to Features', 'Preprocessing and Feature Creation', 'Feature Crosses', 'TF Transform', 'Summary']"
+91,['Applied Social Network Analysis in Python'],"['Graph Theory', 'Network Analysis', 'Python Programming', 'Social Network Analysis']",[]
+92,"['Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames']","['Graphs', 'Hive', 'Apache Hive', 'Apache Spark']",[]
+93,['Reproducible Research'],"['Knitr', 'Data Analysis', 'R Programming', 'Markup Language']",[]
+94,['Linear Regression and Modeling '],"['Statistics', 'Linear Regression', 'R Programming', 'Regression Analysis']",[]
+95,['Estadística aplicada a los negocios'],"['Statistics', 'Data Science', 'Data Analysis']","['Estadística Descriptiva', 'Probabilidades y decisiones bajo incertidumbre', 'Inferencia estadística', 'Introducción al análisis de regresión']"
+96,['Text Mining and Analytics'],"['Data Clustering Algorithms', 'Text Mining', 'Probabilistic Models', 'Sentiment Analysis']",[]
+97,['Essential Design Principles for Tableau'],"['Data Analysis', 'Tableau Software', 'Data Virtualization', 'Data Visualization (DataViz)']",[]
+98,['A Crash Course in Causality:  Inferring Causal Effects from Observational Data'],"['Instrumental Variable', 'Propensity Score Matching', 'Causal Inference', 'Causality']",[]
+99,['Probability and Statistics: To p or not to p?'],[],[]
